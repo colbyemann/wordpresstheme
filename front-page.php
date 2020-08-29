@@ -8,7 +8,7 @@
             </div>
 
             <div class="col">
-                Right Side
+                Right Side 
             </div>
     </div>
 
